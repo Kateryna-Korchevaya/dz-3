@@ -1,0 +1,39 @@
+students:
+  - name: Roman Kotov
+    age: 20
+    gender: male
+    student_id: S123456
+    major: Computer Science
+    gpa: 3.8
+    is_international: false
+    courses:
+      - Introduction to Programming
+      - Database Management
+      - Algorithms
+    contact_info:
+      email: roman@gmail.com
+      phone: "+1234567890"
+      address:
+        street: 15 Main St
+        city: Odesa
+        country: Ukraine
+    is_active: true
+  - name: Oksana Krechetova
+    age: 22
+    gender: female
+    student_id: S789012
+    major: Electrical Engineering
+    gpa: 3.5
+    is_international: true
+    courses:
+      - Circuit Design
+      - Digital Signal Processing
+      - Control Systems
+    contact_info:
+      email: oksana@example.com
+      phone: "+1987654321"
+      address:
+        street: 14 Ivana Franko
+        city: Poltava
+        country: Ukraine
+    is_active: false

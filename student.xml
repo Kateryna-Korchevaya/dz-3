@@ -1,0 +1,50 @@
+<students>
+  <student>
+    <name>Roman Kotov</name>
+    <age>20</age>
+    <gender>male</gender>
+    <student_id>S123456</student_id>
+    <major>Computer Science</major>
+    <gpa>3.8</gpa>
+    <is_international>false</is_international>
+    <courses>
+      <course>Introduction to Programming</course>
+      <course>Database Management</course>
+      <course>Algorithms</course>
+    </courses>
+    <contact_info>
+      <email>roman@gmail.com</email>
+      <phone>+1234567890</phone>
+      <address>
+        <street>15 Main St</street>
+        <city>Odesa</city>
+        <country>Ukraine</country>
+      </address>
+    </contact_info>
+    <is_active>true</is_active>
+  </student>
+  <student>
+    <name>Oksana Krechetova</name>
+    <age>22</age>
+    <gender>female</gender>
+    <student_id>S789012</student_id>
+    <major>Electrical Engineering</major>
+    <gpa>3.5</gpa>
+    <is_international>true</is_international>
+    <courses>
+      <course>Circuit Design</course>
+      <course>Digital Signal Processing</course>
+      <course>Control Systems</course>
+    </courses>
+    <contact_info>
+      <email>oksana@gmail.com</email>
+      <phone>+1987654321</phone>
+      <address>
+        <street>14 Ivana Franko</street>
+        <city>Poltava</city>
+        <country>Ukraine</country>
+      </address>
+    </contact_info>
+    <is_active>false</is_active>
+  </student>
+</students>
